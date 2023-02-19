@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter dart
 - 💞️ I’m looking to collaborate on any C# project
 - 📫 You can reach me on lenzbyahurwa@gmail.com
+- I am also fluent in python programming.
 
 <!---
 LenzB1987/LenzB1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
