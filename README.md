@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any C# project
 - 📫 You can reach me on lenzbyahurwa@gmail.com
 - I am also fluent in python programming.
-
+-Fluent in JavaScript React, Vue
 <!---
 LenzB1987/LenzB1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
