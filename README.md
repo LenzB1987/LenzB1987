@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LenzB1987
-- 👀 I’m interested in C# programming, ANdroid Mobile developemnt using MAUI and Java in Android studio
+- 👀 I’m interested in C# programming, Android Mobile developemnt using MAUI and Java in Android studio
 - 🌱 I’m currently learning Flutter dart
 - 💞️ I’m looking to collaborate on any C# project
 - 📫 You can reach me on lenzbyahurwa@gmail.com
